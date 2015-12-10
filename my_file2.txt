@@ -1,0 +1,5 @@
+My name is file2
+
+I am in the github project.
+
+Changing the code to see how Git reacts.
